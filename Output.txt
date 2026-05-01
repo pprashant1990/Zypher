@@ -1,0 +1,8 @@
+Testcase already exixts in Jira with jiraID::CDGC-56992
+Testcase already exixts in Jira.Skipping the test creation for ---->> Nested Aggregation on Relationship to Object for Distinct Union Queries 1 .
+Testcase already exixts in Jira with jiraID::CDGC-56993
+Testcase already exixts in Jira.Skipping the test creation for ---->> Nested Aggregation on Relationship to Object for Distinct Union Queries 2 .
+Testcase already exixts in Jira with jiraID::CDGC-56992
+Testcase already exixts in Jira.Skipping the test creation for ---->> Nested Aggregation on Relationship to Relationship for Distinct Union Queries 1 .
+Testcase already exixts in Jira with jiraID::CDGC-56993
+Testcase already exixts in Jira.Skipping the test creation for ---->> Nested Aggregation on Relationship to Relationship for Distinct Union Queries 2 .

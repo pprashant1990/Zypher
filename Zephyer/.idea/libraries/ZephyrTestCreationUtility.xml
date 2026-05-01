@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ZephyrTestCreationUtility">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ZephyrTestCreationUtility.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../ZephyrTestCreationUtility.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ZephyrTestCreationUtility.jar!/" />
+    </SOURCES>
+  </library>
+</component>

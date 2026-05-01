@@ -1,0 +1,6 @@
+File Name:C:\Users\pdewanga\Perforce\pdewanga_search_Feature_Branch\restapi-test\src\test\resources\Search_New_Cases\Neo4j_KGS_New_2.feature
+Validation Errors : 
+ Error! :None of the mandatory tags are present at the feature file level.Please add the below tags in the following format. 
+ @MS_{MicroserviceName} ,@Module_{ModuleName} ,@assignee_{Your Name}
+
+
